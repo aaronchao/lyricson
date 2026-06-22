@@ -9,9 +9,19 @@ song in Spotify, YouTube Music, or any other player, open LyricsOn, and the word
 are right there.
 
 <p align="center">
-  <img src="assets/screen1.png" width="240">
-  &nbsp;&nbsp;
-  <img src="assets/screen2.png" width="240">
+  <img src="assets/demo.gif" width="250" alt="LyricsOn in action">
+</p>
+<p align="center"><em>Lyrics scroll in time with the song — and the little record spins while it plays.</em></p>
+
+## 🎨 A different look for every song
+
+The background is painted from each album's colors, so every track gets its own mood.
+
+<p align="center">
+  <img src="assets/screen1.png" width="190">
+  <img src="assets/screen-pink.png" width="190">
+  <img src="assets/screen-purple.png" width="190">
+  <img src="assets/screen-blue.png" width="190">
 </p>
 
 ## ⬇️ Download
